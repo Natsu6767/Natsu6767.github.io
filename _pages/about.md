@@ -17,8 +17,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first year CS Masters student at the University of California, San Diego, advised by Prof. <a href="https://xiaolonw.github.io/"> Xiaolong Wang </a>. I am interested in deep learning, with application in reinforcement learning and computer vision.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I graduated from <a href="https://www.iitr.ac.in/">Indian Institute of Technology, Roorkee</a> in 2020, with major in Electrical Engineering. I was able to spend a semster abroad at the University of Maryland, College Park during which I worked with Prof. <a href="https://www.cs.umd.edu/~abhinav/">Abhinav Shrivastava </a>.
