@@ -139,7 +139,7 @@ plugins:
 scholar:
 
   last_name: Jain
-  first_name: Mohit
+  first_name: [Mohit]
 
   style: apa
   locale: en
