@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Open Source InfoGAN implementation
-description: a project with a background image
+title: InfoGAN
+description: Open Source implementation of InfoGAN using PyTorch 
 github: https://github.com/Natsu6767/InfoGAN-PyTorch
+github_stars: 240
 redirect: https://github.com/Natsu6767/InfoGAN-PyTorch
 importance: 1
 ---
