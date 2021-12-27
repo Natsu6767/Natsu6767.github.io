@@ -6,4 +6,5 @@ github: https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW
 github_stars: 89
 redirect: https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW
 importance: 2
+img: /assets/img/draw.gif
 ---

@@ -6,4 +6,5 @@ github: https://github.com/Natsu6767/Conditional-AnimeGAN
 github_stars: 74
 redirect: https://github.com/Natsu6767/Conditional-AnimeGAN
 importance: 3
+img: /assets/img/animegan.gif
 ---
