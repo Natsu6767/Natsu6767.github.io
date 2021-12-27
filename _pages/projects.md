@@ -32,7 +32,7 @@ nav: true
               {% if project.github_stars %}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                 <i class="fas fa-star"></i>
-                <span id="{{ project.github_stars }}-stars"></span>
+                <span id="{{ project.github_stars }}-stars">{{ project.github_stars }}</span>
               </span>
               {% endif %}
             </div>
