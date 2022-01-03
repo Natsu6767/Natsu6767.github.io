@@ -23,4 +23,4 @@ I am astounded by us humans' abilities to adapt. We are the only species that ca
 
 <a href="/assets/pdf/Mohit_CV.pdf">[CV]</a>
 
-I would love to hear from you! You can get in touch with me at m4jain [at] ucsd.edu
+I would love to hear from you! You can get in touch with me at <b>m4jain</b> [at] <b>ucsd.edu</b>
