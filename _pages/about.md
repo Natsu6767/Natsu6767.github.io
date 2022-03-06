@@ -21,6 +21,6 @@ I graduated from Indian Institute of Technology, Roorkee in 2020, with major in 
 
 I am astounded by us humans' abilities to adapt. We are the only species that can circumnavigate the world and now live even in the most remote corners of our beautiful planet. I believe that for machines and robots to work efficiently in our daily life they must be able to adapt fast and safely. I want to develop artificial intelligence methods that would allow robots to <b>generalize</b> and <b>adapt</b> to novel surroundings and continuously learn over their lifetime. My interests lie broadly at the intersection of <b>Reinforcement Learning</b>, <b>Computer Vision</b>, and <b>Robotics</b>.
 
-<a href="/assets/pdf/Mohit_CV.pdf">[CV]</a>
+<a href="/assets/pdf/Mohit_Resume.pdf">[Resume]</a>
 
 I would love to hear from you! You can get in touch with me at <b>m4jain</b> [at] <b>ucsd.edu</b>
