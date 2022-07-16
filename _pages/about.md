@@ -13,8 +13,6 @@ news: true  # includes a list of news items
 selected_papers: True # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-<b> I am on the Job Market and looking for roles as a SOFTWARE ENGINEER, MACHINE LEARNING ENGINEER, and COMPUTER VISION RESEARCH ENGINEER. If you have any openings or know somone who does, please let me know and get in touch with me. It would really help me out. Thank You 🙂 </b>
-
 Thank you for visiting my academic webpage! If you are interested in checking out my blog, click <a href="https://mohitjain.me/">here</a>.
 
 I am a second year Computer Science Masters student at the University of California, San Diego, advised by Prof. <a href="https://xiaolonw.github.io/"> Xiaolong Wang </a>.
