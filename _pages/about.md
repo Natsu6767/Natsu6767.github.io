@@ -15,7 +15,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 Thank you for visiting my academic webpage! If you are interested in checking out my blog, click <a href="https://mohitjain.me/">here</a>.
 
-I am a second year Computer Science Masters student at the University of California, San Diego, advised by Prof. <a href="https://xiaolonw.github.io/"> Xiaolong Wang </a>.
+I am currently working as a Machine Learning Engineer at <a href="https://www.pinterest.com>"Pinterest </a>.
+
+I have a master's in Computer Science Masters with a specialization in Artificial Intelligence from the University of California, San Diego. During my master's I worked closely with Prof. <a href="https://xiaolonw.github.io/"> Xiaolong Wang </a> on Sim2Real transfer and generalization in robotics resulting in 2 research publications in major internation jounrals.
 
 I graduated from Indian Institute of Technology, Roorkee in 2020, with major in Electrical Engineering. During Fall 2019 I spent a semester abroad at the University of Maryland, College Park doing research with Prof. <a href="https://www.cs.umd.edu/~abhinav/">Abhinav Shrivastava </a>.
 
