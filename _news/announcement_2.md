@@ -5,4 +5,3 @@ inline: true
 ---
 
 Teaching Assistant for <a href="https://xiaolonw.github.io/ece285/index.html">ECE-285: Introduction to Visual Learning (Spring 2021)</a>
-
